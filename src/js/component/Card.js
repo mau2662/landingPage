@@ -3,15 +3,20 @@ import React from "react";
 const Card = () => {
 	return (
 		<div className="card" style={{ width: "18rem" }}>
-			<img src="..." className="card-img-top" alt="..." />
+			<img
+				src="https://www.rover.com/blog/wp-content/uploads/2014/10/tiny-pug1-750x540.jpg"
+				className="card-img-top"
+				alt="..."
+			/>
 			<div className="card-body">
-				<h5 className="card-title">Card title</h5>
+				<h5 className="card-title text-center">Card title</h5>
 				<p className="card-text">
-					Some quick example text to build on the card title and make
-					up the bulk of the cards content.
+					"Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+					sed do eiusmod tempor incididunt ut labore et dolore magna
+					aliqua.
 				</p>
 				<a href="#" className="btn btn-primary">
-					Go somewhere
+					Find Out More
 				</a>
 			</div>
 		</div>

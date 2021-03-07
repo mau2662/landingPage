@@ -18,16 +18,16 @@ const Navbar = () => {
 
 				<ul className="navbar-nav">
 					<li className="nav-item">
-						<a className="nav-link">Login</a>
+						<a className="nav-link">Home</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link">Login</a>
+						<a className="nav-link">About</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link">Login</a>
+						<a className="nav-link">Services</a>
 					</li>
 					<li className="nav-item">
-						<a className="nav-link">Login</a>
+						<a className="nav-link">Contact</a>
 					</li>
 				</ul>
 			</div>

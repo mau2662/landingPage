@@ -22,6 +22,9 @@ export function Home() {
 					<div className="col">
 						<Card> </Card>
 					</div>
+					<div className="col">
+						<Card> </Card>
+					</div>
 				</div>
 			</div>
 
